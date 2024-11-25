@@ -17,7 +17,7 @@ This is a game aggregator using React.js, TypeScript, and ChakraUI
 ### Cloning the repository
 
 ```
-git clone https://github.com/gungho0619/game-hub.git
+git clone https://github.com/climax-coder/game-hub.git
 ```
 
 ### Install packages
